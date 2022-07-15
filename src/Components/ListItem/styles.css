@@ -1,0 +1,10 @@
+.list-wrapper {
+  margin: 20px 0 20px 0;
+  border: 1px solid grey;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.list-text {
+  margin: 10px;
+}
